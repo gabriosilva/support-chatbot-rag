@@ -1,3 +1,7 @@
+> **English summary.** A customer support chatbot built for Brastel. An intent classifier works out what each question is about, and a retrieval-augmented generation service writes the answer from retrieved information. The two run as separate services.
+>
+> Team project from my Computer Science degree at Inteli (2024). This is a fork of the original repository; the documentation below is in Portuguese.
+
 <table>
   <tr>
     <td style="vertical-align: middle;">
